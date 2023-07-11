@@ -22,7 +22,8 @@ export class TaskItemComponent {
   }
 
   onToggle(task: Task) {
-    this.onToggleReminder.emit(task);  
+    this.onDeleteTask.emit(task);  
+
   }
 
 }
