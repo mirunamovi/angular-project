@@ -23,6 +23,12 @@
       "day": "July 11th",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Angular Course",
+      "day": "July 12 th",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
